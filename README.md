@@ -2,7 +2,7 @@
 - Final grade: 9.6/10.
 
 ## Overview
-This project involves the implementation of the original PageRank algorithm, as proposed by Sergey Brin and Larry Page in 1998, which laid the groundwork for the Google Search Engine. The algorithm aims to assign a weight to each webpage on the internet, primarily based on the number of external links pointing to the page.
+This project involves the implementation of the original PageRank algorithm, which laid the groundwork for the Google Search Engine. The algorithm aims to assign a weight to each webpage on the internet, primarily based on the number of external links pointing to the page.
 
 ## Objective
 The primary goal is to apply the PageRank algorithm to set weights for each page within the English version of Wikipedia, utilizing the dataset available in the Databricks Databases Set at the URI: dbfs:/databricks-datasets/wikipedia-datasets/data-001/en_wikipedia/articles-only-parquet. This involves working with a database containing 5,823,210 entries stored in a parquet file format.
